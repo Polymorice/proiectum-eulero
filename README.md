@@ -1,0 +1,1 @@
+I have to created this repo as a note book for solving problems in proiectum eulero, which I used the Latin name instead, making the repo less searchable. (I am sorry, if I messed up the case in translation. My Latin is not good.)
